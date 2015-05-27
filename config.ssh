@@ -1,0 +1,7 @@
+Host 172.20.10.5
+User jima
+Port 22
+StrictHostKeyChecking no
+PasswordAuthentication no
+IdentityFile ~/.ssh/id_rss
+IdentitiesOnly yes
